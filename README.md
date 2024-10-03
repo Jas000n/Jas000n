@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason
-- 💪 Proficient in Web Develop Technologies & Linux Operating System
+- 💪 An AI researcher with an exceptional background in software engineering.
 - 🌱 Either build a world or change the world by coding!
 - 📫 How to reach me shunyuyao2001@gmail.com
 - 🐈 Github io blog: https://jas000n.github.io/
